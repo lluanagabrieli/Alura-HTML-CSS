@@ -123,7 +123,13 @@ body{
     }
 
     .apresentacao {
+        align-items: center;
         flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .apresentacao__conteudo {
+        width: 100%; /* o auto pode ser utilizado também, no lugar do 100% */
         align-items: center;
     }
 }
