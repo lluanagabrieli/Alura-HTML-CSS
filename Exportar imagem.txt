@@ -1,0 +1,16 @@
+Para exportar uma imagem no Figma:
+- clicamos na imagem
+- no canto superior direito clicamos em "Export"
+- clicamos no botão "+". Geralmente são pegos 3 tamanhos para os diferentes dispositivos.
+
+Para exportar uma figura criada com elementos do Figma - como traços por exemplo:
+- selecionamos todos os elementos que formam a figura
+- clica com o direito e vai em "Group selection". Com isso, vai ser criado um grupo com todos os elementos, formando a figura.
+- depois é só fazer a exportação. Como é figura formada no próprio Figma, o export vai estar na parte inferior direita.
+
+====== ADENDOS IMPORTANTES ======
+- é interessante exportar em formato SVG, pois assim a imagem não perde a resolução ao ser aumentada.
+
+Exportação de propriedades
+- você clica no elemento, como por exemplo um botão
+- ao lado aparecerá os elementos do botão, como cor, border-radius. Isso ajuda a nortear na hora do desenvolvimento
